@@ -1,2 +1,2 @@
-# penguin-classifier
-building SVM model from scratch to classify penguins
+# tuberculosis-classification
+building SVM model 
